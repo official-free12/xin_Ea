@@ -1,0 +1,6 @@
+# 2020新聚合二维码
+
+本系统通道：支付宝固码+微信固码+微信店员通+支付宝店员通<br>支付宝，微信监听免XP框架，支持支付宝，微信任意版本<br>程序仅网站程序开源，监控以及网关程序编译好成品给客户，如果需要全开源请联系客服<br>   如需要其他通道监听可联系平台客服定制<br>包搭建，包教学，亲自教学，教会为止<br>稳定掉单率低，成功率高！后台管理强大！<br>源码绝非网上TCP版任意一家！我们做了很多微信和支付宝版本适配！出码速度1-3秒，回调速度更是快上加快，款到秒回调！<br>本系统的部分核心功能：<br>example.com，让您的服务实现高可用，单机抗几万android手机连接不是问题！<br>example.com+代收接口一体化，客户可选择使用调用接口或者代收接口，系统支持手动加款<br>example.com+wss，有手动补单工具，服务端增加当面付功能<br>example.com，多种轮训方式，<br>example.com，超出停止收款<br>example.com，微信各种收款模式，无畏风险。<br>example.com，商户端，api文档等一应俱全！<br>使用本系统的优势：<br>1、无需对接三方通道、保障资金的安全掌控。<br>2、0费率、不用再为三方/高额的手续费而感到烦恼。<br>3、资金直接到商户的个人账户、保证商户资金的安全、对于平台拓展商户有绝大优势。<br>4、灵活多变、商户可配置多个账户。系统带有账户轮询，避免封号风险。<br>5、支持对系统进行功能定制、预充值式手续费设置，满足您的一切需求！<br>注：个人免签程序有概率，出现不支持任何理由退款，但出现，我们会进行修复+更新，是免费处理得<br>声明：<br>倒卖停止一切售后更新！！<br>源码只供学习使用，如用于商业活动与本人无关<br>购买本系统请一定测试确定好在买，一旦售出概不退款<br>请勿将系统用于非法业务,合理学习<br>用于非法业务暂停一切售后服务包括更新<br>用来进行违反中国法律用户跟本人一切无关<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/xmmLX" style="color: red;">https://mega-file.org/xmmLX</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
